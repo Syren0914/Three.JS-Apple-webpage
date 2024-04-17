@@ -1,5 +1,7 @@
 import React from "react";
 import Logo from "../assets/images/logo.svg";
+import Store from "../assets/images/store.svg"
+import Search from "../assets/images/search.svg"
 
 function Nav() {
   return (
@@ -18,8 +20,8 @@ function Nav() {
           <li><a className="link-styled" href="#store">Entertainment</a></li>
           <li><a className="link-styled" href="#store">Accessories</a></li>
           <li><a className="link-styled" href="#store">Support</a></li>
-          <li><img  src={Logo} alt="Apple" /></li>
-          <li><img src={Logo} alt="Apple" /></li>
+          <li><img  src={Search} alt="Search" /></li>
+          <li><img src={Store} alt="Store" /></li>
 
 
 
