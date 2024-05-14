@@ -30,12 +30,9 @@ This project is a responsive website built using Three.js framework for 3D rende
     ```
 
 Run the development server:
-
-bash
-
-    ```bash
+   ```bash
      npm start
-    ```
+   ```
 Open your web browser and navigate to http://localhost:3000 to view the website.
 
 Folder Structure
