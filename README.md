@@ -29,7 +29,7 @@ This project is a responsive website built using Three.js framework for 3D rende
     npm install
     ```
 
-Run the development server:
+3. Run the development server:
    ```bash
     npm start
    ```
