@@ -26,12 +26,12 @@ This project is a responsive website built using Three.js framework for 3D rende
 2. Install dependencies using npm:
 
    ```bash
-   npm install
+    npm install
     ```
 
 Run the development server:
    ```bash
-     npm start
+    npm start
    ```
 Open your web browser and navigate to http://localhost:3000 to view the website.
 
@@ -63,10 +63,6 @@ Contributions are welcome! Feel free to open an issue or create a pull request f
 License
 MIT License
 
-css
-Copy code
-
-Feel free to modify it according to your project specifics or add more sections if required!
 
 
 
